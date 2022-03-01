@@ -1,0 +1,166 @@
+/* screen - sign-up */
+
+.sign-up {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 1080px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.sign-up .overlap-group {
+  align-items: flex-start;
+  background-image: url(../img/abstract-colorful-low-poly-vector-background-with-warm-gradient--5@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 1199px;
+  justify-content: flex-end;
+  min-width: 1920px;
+  padding: 86px 71px;
+}
+
+.sign-up .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 8px;
+  min-height: 884px;
+  width: 1421px;
+}
+
+.sign-up .already-have-an-account {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 27px;
+  min-height: 29px;
+  min-width: 322px;
+  white-space: nowrap;
+}
+
+.sign-up .overlap-group1 {
+  align-items: flex-start;
+  align-self: center;
+  background-color: var(--zeus);
+  border-radius: 37px;
+  display: flex;
+  flex-direction: column;
+  margin-right: 33.0px;
+  margin-top: 77px;
+  min-height: 534px;
+  padding: 32px 299px;
+  width: 1054px;
+}
+
+.sign-up .enter-your-email {
+  letter-spacing: 0;
+  line-height: 27px;
+  min-height: 29px;
+  white-space: nowrap;
+}
+
+.sign-up .rectangle-10 {
+  background-color: var(--blue-whale);
+  border-radius: 22px;
+  height: 59px;
+  margin-top: 12px;
+  width: 453px;
+}
+
+.sign-up .overlap-group2 {
+  align-self: center;
+  height: 92px;
+  margin-left: 1.0px;
+  margin-top: 44px;
+  position: relative;
+  width: 453px;
+}
+
+.sign-up .create-your-password {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.sign-up .rectangle {
+  background-color: var(--blue-whale);
+  border-radius: 22px;
+  height: 59px;
+  left: 0;
+  position: absolute;
+  top: 32px;
+  width: 453px;
+}
+
+.sign-up .overlap-group3 {
+  align-self: center;
+  height: 90px;
+  margin-left: 1.0px;
+  margin-top: 42px;
+  position: relative;
+  width: 453px;
+}
+
+.sign-up .confirm-password {
+  left: 4px;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.sign-up .component-55-1 {
+  align-items: flex-end;
+  background-color: var(--malachite);
+  border-radius: 22px;
+  cursor: pointer;
+  display: flex;
+  height: 59px;
+  margin-top: 29px;
+  min-width: 453px;
+  padding: 11px 177px;
+}
+
+.sign-up .sign-up-1 {
+  letter-spacing: 0;
+  line-height: 27px;
+  min-height: 29px;
+  min-width: 98px;
+  white-space: nowrap;
+}
+
+.sign-up .by-creating-an-accou {
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: 184px;
+  min-height: 61px;
+  white-space: nowrap;
+}
+
+.sign-up .component-3-1 {
+  cursor: pointer;
+  display: flex;
+  height: 36px;
+  margin-left: 43px;
+  width: 119px;
+}
+
+.sign-up .sign-in {
+  color: var(--shakespeare);
+  flex: 1;
+  font-family: var(--font-family-segoeui-semibold);
+  font-size: var(--font-size-xxl);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-bottom: -3.5px;
+  margin-right: -4px;
+  margin-top: 5.5px;
+  white-space: nowrap;
+  width: 119px;
+}

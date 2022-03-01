@@ -1,0 +1,467 @@
+/* screen - weight */
+
+.weight {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1446px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.weight .overlap-group {
+  height: 535px;
+  margin-left: -135px;
+  margin-top: -187px;
+  position: relative;
+  width: 2075px;
+}
+
+.weight .rectangle-2829 {
+  background-color: var(--white);
+  height: 216px;
+  left: 135px;
+  position: absolute;
+  top: 187px;
+  width: 1920px;
+}
+
+.weight .screenshot_18 {
+  background-image: url(../img/screenshot-18@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 89px;
+  left: 245px;
+  position: absolute;
+  top: 251px;
+  width: 254px;
+}
+
+.weight .ellipse-259 {
+  border-radius: 187px;
+  height: 374px;
+  left: 656px;
+  opacity: 0.18;
+  position: absolute;
+  top: 0;
+  width: 374px;
+}
+
+.weight .calorie-tracker {
+  left: 1413px;
+  letter-spacing: 0;
+  line-height: 70px;
+  position: absolute;
+  top: 273px;
+  white-space: nowrap;
+}
+
+.weight .ellipse-258 {
+  border-radius: 187px;
+  height: 374px;
+  left: 0;
+  opacity: 0.18;
+  position: absolute;
+  top: 71px;
+  width: 374px;
+}
+
+.weight .rectangle-2830 {
+  background-color: var(--white);
+  height: 132px;
+  left: 135px;
+  position: absolute;
+  top: 403px;
+  width: 1920px;
+}
+
+.weight .path-2 {
+  cursor: pointer;
+  height: 90px;
+  left: 374px;
+  object-fit: cover;
+  position: absolute;
+  top: 445px;
+  width: 239px;
+}
+
+.weight .rectangle-2833 {
+  background-color: var(--white);
+  border-radius: 21px;
+  cursor: pointer;
+  height: 90px;
+  left: 613px;
+  position: absolute;
+  top: 445px;
+  width: 239px;
+}
+
+.weight .rectangle-2834 {
+  background-color: var(--white);
+  border-radius: 29px;
+  height: 90px;
+  left: 852px;
+  position: absolute;
+  top: 445px;
+  width: 239px;
+}
+
+.weight .rectangle-2835 {
+  background-color: var(--white);
+  height: 90px;
+  left: 1091px;
+  position: absolute;
+  top: 445px;
+  width: 239px;
+}
+
+.weight .gender {
+  left: 465px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 482px;
+  white-space: nowrap;
+}
+
+.weight .height {
+  color: #27b5ff;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  left: 706px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 482px;
+  white-space: nowrap;
+}
+
+.weight .weight-1 {
+  left: 943px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 482px;
+  white-space: nowrap;
+}
+
+.weight .target-weight {
+  left: 1155px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 482px;
+  white-space: nowrap;
+}
+
+.weight .rectangle-2836 {
+  background-color: var(--white);
+  height: 90px;
+  left: 1330px;
+  position: absolute;
+  top: 445px;
+  width: 239px;
+}
+
+.weight .activity-routine {
+  left: 1388px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 482px;
+  white-space: nowrap;
+}
+
+.weight .rectangle-2837 {
+  background-color: var(--white);
+  height: 90px;
+  left: 1569px;
+  position: absolute;
+  top: 445px;
+  width: 239px;
+}
+
+.weight .medical-conditions {
+  left: 1612px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 482px;
+  white-space: nowrap;
+}
+
+.weight .rectangle-2838 {
+  background-color: var(--white);
+  height: 90px;
+  left: 1808px;
+  position: absolute;
+  top: 445px;
+  width: 247px;
+}
+
+.weight .finalising {
+  left: 1895px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 482px;
+  white-space: nowrap;
+}
+
+.weight .rectangle-2839 {
+  background-color: var(--white);
+  border-radius: 21px;
+  cursor: pointer;
+  height: 90px;
+  left: 135px;
+  position: absolute;
+  top: 445px;
+  width: 239px;
+}
+
+.weight .age {
+  left: 239px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 482px;
+  white-space: nowrap;
+}
+
+.weight .overlap-group2 {
+  background-image: url(../img/pngegg--21--1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 719px;
+  position: relative;
+  width: 1920px;
+}
+
+.weight .rectangle-2840 {
+  height: 449px;
+  left: 571px;
+  object-fit: cover;
+  position: absolute;
+  top: 101px;
+  width: 744px;
+}
+
+.weight .enter-your-weight {
+  left: 745px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 164px;
+  white-space: nowrap;
+}
+
+.weight .component-2-5 {
+  background-image: url(../img/path-1-3@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  display: flex;
+  height: 79px;
+  left: 834px;
+  position: absolute;
+  top: 424px;
+  width: 252px;
+}
+
+.weight .continue {
+  flex: 1;
+  height: 59px;
+  letter-spacing: 0;
+  line-height: 41px;
+  margin-left: 31px;
+  margin-right: 6px;
+  margin-top: 18px;
+  white-space: nowrap;
+}
+
+.weight .rectangle-2841 {
+  background-color: var(--white);
+  border-radius: 19px;
+  height: 103px;
+  left: 867px;
+  opacity: 0.7;
+  position: absolute;
+  top: 272px;
+  width: 187px;
+}
+
+.weight .overlap-group1 {
+  align-items: flex-start;
+  background-image: url(../img/screenshot-24-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 379px;
+  min-width: 1920px;
+  padding: 69px 295px;
+}
+
+.weight .high-quality-digital {
+  align-self: flex-end;
+  height: 136px;
+  letter-spacing: -0.20px;
+  line-height: 26px;
+  margin-bottom: 7px;
+  width: 291px;
+}
+
+.weight .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 234px;
+  min-height: 233px;
+  width: 186px;
+}
+
+.weight .products {
+  letter-spacing: -0.35px;
+  line-height: 22px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.weight .design-systems {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 23px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.weight .themes-templates {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 20px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.weight .mockups {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 22px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.weight .presentations {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 20px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.weight .wireframes-kits {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 21px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.weight .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 19px;
+  min-height: 191px;
+  width: 160px;
+}
+
+.weight .legals {
+  letter-spacing: -0.35px;
+  line-height: 22px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.weight .license {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 23px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.weight .refund-policy {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 20px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.weight .about-us {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 22px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.weight .contacts {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 20px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.weight .flex-col-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 19px;
+  min-height: 205px;
+  width: 296px;
+}
+
+.weight .contacts-1 {
+  letter-spacing: -0.35px;
+  line-height: 22px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.weight .fell-free-get-in-tou {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-top: 23px;
+  min-height: 47px;
+  width: 296px;
+}
+
+.weight .phone {
+  letter-spacing: -0.35px;
+  line-height: 14px;
+  margin-top: 50px;
+  min-height: 21px;
+  width: 296px;
+}
+
+.weight .deniscraftworkdesi {
+  letter-spacing: -0.35px;
+  line-height: 14px;
+  margin-top: 21px;
+  min-height: 21px;
+  width: 296px;
+}

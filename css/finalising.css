@@ -1,0 +1,511 @@
+/* screen - finalising */
+
+.finalising {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1446px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.finalising .overlap-group1 {
+  height: 535px;
+  margin-left: -135px;
+  margin-top: -187px;
+  position: relative;
+  width: 2075px;
+}
+
+.finalising .rectangle-2829 {
+  background-color: var(--white);
+  height: 216px;
+  left: 135px;
+  position: absolute;
+  top: 187px;
+  width: 1920px;
+}
+
+.finalising .screenshot_18 {
+  background-image: url(../img/screenshot-18@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 89px;
+  left: 245px;
+  position: absolute;
+  top: 251px;
+  width: 254px;
+}
+
+.finalising .ellipse-259 {
+  border-radius: 187px;
+  height: 374px;
+  left: 656px;
+  opacity: 0.18;
+  position: absolute;
+  top: 0;
+  width: 374px;
+}
+
+.finalising .calorie-tracker {
+  left: 1413px;
+  letter-spacing: 0;
+  line-height: 70px;
+  position: absolute;
+  top: 273px;
+  white-space: nowrap;
+}
+
+.finalising .ellipse-258 {
+  border-radius: 187px;
+  height: 374px;
+  left: 0;
+  opacity: 0.18;
+  position: absolute;
+  top: 71px;
+  width: 374px;
+}
+
+.finalising .rectangle-2830 {
+  background-color: var(--white);
+  height: 132px;
+  left: 135px;
+  position: absolute;
+  top: 403px;
+  width: 1920px;
+}
+
+.finalising .path-2 {
+  height: 90px;
+  left: 374px;
+  object-fit: cover;
+  position: absolute;
+  top: 445px;
+  width: 239px;
+}
+
+.finalising .rectangle-2833 {
+  background-color: var(--white);
+  border-radius: 21px;
+  cursor: pointer;
+  height: 90px;
+  left: 613px;
+  position: absolute;
+  top: 445px;
+  width: 239px;
+}
+
+.finalising .rectangle-2834 {
+  background-color: var(--white);
+  border-radius: 24px;
+  height: 90px;
+  left: 852px;
+  position: absolute;
+  top: 445px;
+  width: 239px;
+}
+
+.finalising .rectangle-2835 {
+  background-color: var(--white);
+  border-radius: 26px;
+  cursor: pointer;
+  height: 90px;
+  left: 1091px;
+  position: absolute;
+  top: 445px;
+  width: 239px;
+}
+
+.finalising .gender {
+  left: 465px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 482px;
+  white-space: nowrap;
+}
+
+.finalising .height {
+  left: 706px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 482px;
+  white-space: nowrap;
+}
+
+.finalising .weight {
+  cursor: pointer;
+  left: 943px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 482px;
+  white-space: nowrap;
+}
+
+.finalising .target-weight {
+  left: 1155px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 482px;
+  white-space: nowrap;
+}
+
+.finalising .rectangle-2836 {
+  background-color: var(--white);
+  border-radius: 24px;
+  cursor: pointer;
+  height: 90px;
+  left: 1330px;
+  position: absolute;
+  top: 445px;
+  width: 239px;
+}
+
+.finalising .activity-routine {
+  cursor: pointer;
+  left: 1388px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 482px;
+  white-space: nowrap;
+}
+
+.finalising .rectangle-2837 {
+  background-color: var(--white);
+  border-radius: 23px;
+  cursor: pointer;
+  height: 90px;
+  left: 1569px;
+  position: absolute;
+  top: 445px;
+  width: 239px;
+}
+
+.finalising .medical-conditions {
+  left: 1612px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 482px;
+  white-space: nowrap;
+}
+
+.finalising .rectangle-2838 {
+  background-color: var(--white);
+  border-radius: 19px;
+  height: 90px;
+  left: 1808px;
+  position: absolute;
+  top: 445px;
+  width: 247px;
+}
+
+.finalising .finalising-1 {
+  left: 1895px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 482px;
+  white-space: nowrap;
+}
+
+.finalising .rectangle-2839 {
+  background-color: var(--white);
+  border-radius: 21px;
+  cursor: pointer;
+  height: 90px;
+  left: 135px;
+  position: absolute;
+  top: 445px;
+  width: 239px;
+}
+
+.finalising .age {
+  left: 239px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 482px;
+  white-space: nowrap;
+}
+
+.finalising .overlap-group2 {
+  background-image: url(../img/pngegg--21--1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 719px;
+  position: relative;
+  width: 1920px;
+}
+
+.finalising .rectangle-2840 {
+  height: 449px;
+  left: 571px;
+  object-fit: cover;
+  position: absolute;
+  top: 101px;
+  width: 744px;
+}
+
+.finalising .please-review-the-fi {
+  color: #828282;
+  font-family: var(--font-family-poppins);
+  font-size: 23px;
+  font-weight: 400;
+  left: 637px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 162px;
+  white-space: nowrap;
+}
+
+.finalising .rectangle-2845 {
+  background-color: var(--white);
+  border-radius: 33px;
+  height: 209px;
+  left: 637px;
+  opacity: 0.39;
+  position: absolute;
+  top: 218px;
+  width: 616px;
+}
+
+.finalising .text-6 {
+  color: #828282;
+  font-family: var(--font-family-poppins);
+  font-size: 23px;
+  font-weight: 400;
+  left: 674px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 261px;
+  white-space: nowrap;
+}
+
+.finalising .component-2-9 {
+  background-image: url(../img/path-1-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 79px;
+  left: 674px;
+  position: absolute;
+  top: 452px;
+  width: 252px;
+}
+
+.finalising .continue {
+  flex: 1;
+  height: 59px;
+  letter-spacing: 0;
+  line-height: 41px;
+  margin-left: 31px;
+  margin-right: 6px;
+  margin-top: 18px;
+  white-space: nowrap;
+}
+
+.finalising .component-2-10 {
+  background-image: url(../img/path-1-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  display: flex;
+  height: 79px;
+  left: 952px;
+  position: absolute;
+  top: 452px;
+  width: 252px;
+}
+
+.finalising .revert {
+  flex: 1;
+  height: 59px;
+  letter-spacing: 0;
+  line-height: 41px;
+  margin-left: 69px;
+  margin-right: 52px;
+  margin-top: 22px;
+  white-space: nowrap;
+}
+
+.finalising .overlap-group {
+  align-items: flex-start;
+  background-image: url(../img/screenshot-24-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 379px;
+  min-width: 1920px;
+  padding: 69px 295px;
+}
+
+.finalising .high-quality-digital {
+  align-self: flex-end;
+  height: 136px;
+  letter-spacing: -0.20px;
+  line-height: 26px;
+  margin-bottom: 7px;
+  width: 291px;
+}
+
+.finalising .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 234px;
+  min-height: 233px;
+  width: 186px;
+}
+
+.finalising .products {
+  letter-spacing: -0.35px;
+  line-height: 22px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.finalising .design-systems {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 23px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.finalising .themes-templates {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 20px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.finalising .mockups {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 22px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.finalising .presentations {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 20px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.finalising .wireframes-kits {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 21px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.finalising .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 19px;
+  min-height: 191px;
+  width: 160px;
+}
+
+.finalising .legals {
+  letter-spacing: -0.35px;
+  line-height: 22px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.finalising .license {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 23px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.finalising .refund-policy {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 20px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.finalising .about-us {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 22px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.finalising .contacts {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 20px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.finalising .flex-col-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 19px;
+  min-height: 205px;
+  width: 296px;
+}
+
+.finalising .contacts-1 {
+  letter-spacing: -0.35px;
+  line-height: 22px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.finalising .fell-free-get-in-tou {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-top: 23px;
+  min-height: 47px;
+  width: 296px;
+}
+
+.finalising .phone {
+  letter-spacing: -0.35px;
+  line-height: 14px;
+  margin-top: 50px;
+  min-height: 21px;
+  width: 296px;
+}
+
+.finalising .deniscraftworkdesi {
+  letter-spacing: -0.35px;
+  line-height: 14px;
+  margin-top: 21px;
+  min-height: 21px;
+  width: 296px;
+}

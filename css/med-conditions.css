@@ -1,0 +1,482 @@
+/* screen - med-conditions */
+
+.med-conditions {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1446px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.med-conditions .overlap-group {
+  height: 535px;
+  margin-left: -135px;
+  margin-top: -187px;
+  position: relative;
+  width: 2075px;
+}
+
+.med-conditions .rectangle-2829 {
+  background-color: var(--white);
+  height: 216px;
+  left: 135px;
+  position: absolute;
+  top: 187px;
+  width: 1920px;
+}
+
+.med-conditions .screenshot_18 {
+  background-image: url(../img/screenshot-18@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 89px;
+  left: 245px;
+  position: absolute;
+  top: 251px;
+  width: 254px;
+}
+
+.med-conditions .ellipse-259 {
+  border-radius: 187px;
+  height: 374px;
+  left: 656px;
+  opacity: 0.18;
+  position: absolute;
+  top: 0;
+  width: 374px;
+}
+
+.med-conditions .calorie-tracker {
+  left: 1413px;
+  letter-spacing: 0;
+  line-height: 70px;
+  position: absolute;
+  top: 273px;
+  white-space: nowrap;
+}
+
+.med-conditions .ellipse-258 {
+  border-radius: 187px;
+  height: 374px;
+  left: 0;
+  opacity: 0.18;
+  position: absolute;
+  top: 71px;
+  width: 374px;
+}
+
+.med-conditions .rectangle-2830 {
+  background-color: var(--white);
+  height: 132px;
+  left: 135px;
+  position: absolute;
+  top: 403px;
+  width: 1920px;
+}
+
+.med-conditions .path-2 {
+  cursor: pointer;
+  height: 90px;
+  left: 374px;
+  object-fit: cover;
+  position: absolute;
+  top: 445px;
+  width: 239px;
+}
+
+.med-conditions .rectangle-2833 {
+  background-color: var(--white);
+  border-radius: 21px;
+  cursor: pointer;
+  height: 90px;
+  left: 613px;
+  position: absolute;
+  top: 445px;
+  width: 239px;
+}
+
+.med-conditions .rectangle-2834 {
+  background-color: var(--white);
+  border-radius: 24px;
+  cursor: pointer;
+  height: 90px;
+  left: 852px;
+  position: absolute;
+  top: 445px;
+  width: 239px;
+}
+
+.med-conditions .rectangle-2835 {
+  background-color: var(--white);
+  border-radius: 26px;
+  cursor: pointer;
+  height: 90px;
+  left: 1091px;
+  position: absolute;
+  top: 445px;
+  width: 239px;
+}
+
+.med-conditions .gender {
+  left: 465px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 482px;
+  white-space: nowrap;
+}
+
+.med-conditions .height {
+  left: 706px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 482px;
+  white-space: nowrap;
+}
+
+.med-conditions .weight {
+  left: 943px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 482px;
+  white-space: nowrap;
+}
+
+.med-conditions .target-weight {
+  left: 1155px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 482px;
+  white-space: nowrap;
+}
+
+.med-conditions .rectangle-2836 {
+  background-color: var(--white);
+  border-radius: 24px;
+  cursor: pointer;
+  height: 90px;
+  left: 1330px;
+  position: absolute;
+  top: 445px;
+  width: 239px;
+}
+
+.med-conditions .activity-routine {
+  left: 1388px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 482px;
+  white-space: nowrap;
+}
+
+.med-conditions .rectangle-2837 {
+  background-color: var(--white);
+  border-radius: 23px;
+  height: 90px;
+  left: 1569px;
+  position: absolute;
+  top: 445px;
+  width: 239px;
+}
+
+.med-conditions .medical-conditions {
+  left: 1612px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 482px;
+  white-space: nowrap;
+}
+
+.med-conditions .rectangle-2838 {
+  background-color: var(--white);
+  height: 90px;
+  left: 1808px;
+  position: absolute;
+  top: 445px;
+  width: 247px;
+}
+
+.med-conditions .finalising {
+  left: 1895px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 482px;
+  white-space: nowrap;
+}
+
+.med-conditions .rectangle-2839 {
+  background-color: var(--white);
+  border-radius: 21px;
+  cursor: pointer;
+  height: 90px;
+  left: 135px;
+  position: absolute;
+  top: 445px;
+  width: 239px;
+}
+
+.med-conditions .age {
+  left: 239px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 482px;
+  white-space: nowrap;
+}
+
+.med-conditions .overlap-group2 {
+  background-image: url(../img/pngegg--21--1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 719px;
+  position: relative;
+  width: 1920px;
+}
+
+.med-conditions .rectangle-2840 {
+  height: 449px;
+  left: 571px;
+  object-fit: cover;
+  position: absolute;
+  top: 101px;
+  width: 744px;
+}
+
+.med-conditions .any-medical-conditio {
+  left: 617px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 146px;
+  white-space: nowrap;
+}
+
+.med-conditions .component-2-8 {
+  background-image: url(../img/path-1-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  display: flex;
+  height: 79px;
+  left: 834px;
+  position: absolute;
+  top: 424px;
+  width: 252px;
+}
+
+.med-conditions .continue {
+  flex: 1;
+  height: 59px;
+  letter-spacing: 0;
+  line-height: 41px;
+  margin-left: 31px;
+  margin-right: 6px;
+  margin-top: 18px;
+  white-space: nowrap;
+}
+
+.med-conditions .rectangle-2844 {
+  background-color: var(--white);
+  height: 127px;
+  left: 639px;
+  position: absolute;
+  top: 278px;
+  width: 623px;
+}
+
+.med-conditions .please-describe-in {
+  color: var(--chicago);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  left: 609px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 512px;
+  white-space: nowrap;
+}
+
+.med-conditions .overlap-group1 {
+  align-items: flex-start;
+  background-image: url(../img/screenshot-24-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 379px;
+  min-width: 1920px;
+  padding: 69px 295px;
+}
+
+.med-conditions .high-quality-digital {
+  align-self: flex-end;
+  height: 136px;
+  letter-spacing: -0.20px;
+  line-height: 26px;
+  margin-bottom: 7px;
+  width: 291px;
+}
+
+.med-conditions .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 234px;
+  min-height: 233px;
+  width: 186px;
+}
+
+.med-conditions .products {
+  letter-spacing: -0.35px;
+  line-height: 22px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.med-conditions .design-systems {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 23px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.med-conditions .themes-templates {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 20px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.med-conditions .mockups {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 22px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.med-conditions .presentations {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 20px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.med-conditions .wireframes-kits {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 21px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.med-conditions .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 19px;
+  min-height: 191px;
+  width: 160px;
+}
+
+.med-conditions .legals {
+  letter-spacing: -0.35px;
+  line-height: 22px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.med-conditions .license {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 23px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.med-conditions .refund-policy {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 20px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.med-conditions .about-us {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 22px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.med-conditions .contacts {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 20px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.med-conditions .flex-col-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 19px;
+  min-height: 205px;
+  width: 296px;
+}
+
+.med-conditions .contacts-1 {
+  letter-spacing: -0.35px;
+  line-height: 22px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.med-conditions .fell-free-get-in-tou {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-top: 23px;
+  min-height: 47px;
+  width: 296px;
+}
+
+.med-conditions .phone {
+  letter-spacing: -0.35px;
+  line-height: 14px;
+  margin-top: 50px;
+  min-height: 21px;
+  width: 296px;
+}
+
+.med-conditions .deniscraftworkdesi {
+  letter-spacing: -0.35px;
+  line-height: 14px;
+  margin-top: 21px;
+  min-height: 21px;
+  width: 296px;
+}

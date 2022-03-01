@@ -1,0 +1,136 @@
+/* screen - otp-verification */
+
+.otp-verification {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 1080px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.otp-verification .overlap-group {
+  align-items: center;
+  background-image: url(../img/abstract-colorful-low-poly-vector-background-with-warm-gradient--5@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  margin-top: -14px;
+  min-height: 1199px;
+  padding: 252px 0;
+  width: 1920px;
+}
+
+.otp-verification .overlap-group1 {
+  align-items: center;
+  background-color: var(--zeus);
+  border-radius: 39px;
+  display: flex;
+  height: 418px;
+  justify-content: flex-end;
+  margin-top: 52px;
+  min-width: 1054px;
+  padding: 19px 49px;
+}
+
+.otp-verification .flex-col {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 332px;
+  width: 453px;
+}
+
+.otp-verification .enter-email-address {
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 2px;
+  min-height: 29px;
+  white-space: nowrap;
+}
+
+.otp-verification .rectangle-19 {
+  background-color: var(--blue-whale);
+  border-radius: 22px;
+  height: 59px;
+  margin-top: 29px;
+  width: 453px;
+}
+
+.otp-verification .enter-otp {
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 2px;
+  margin-top: 38px;
+  min-height: 29px;
+  white-space: nowrap;
+}
+
+.otp-verification .rectangle-17 {
+  background-color: var(--blue-whale);
+  border-radius: 22px;
+  height: 59px;
+  margin-top: 15px;
+  width: 453px;
+}
+
+.otp-verification .overlap-group2 {
+  border-radius: 22px;
+  height: 59px;
+  margin-top: 15px;
+  position: relative;
+  width: 453px;
+}
+
+.otp-verification .rectangle-20 {
+  background-color: var(--malachite);
+  border-radius: 22px;
+  cursor: pointer;
+  height: 59px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 453px;
+}
+
+.otp-verification .continue {
+  left: 178px;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  top: 20px;
+  white-space: nowrap;
+}
+
+.otp-verification .overlap-group3 {
+  align-items: flex-end;
+  background-color: var(--malachite);
+  border-radius: 22px;
+  display: flex;
+  height: 59px;
+  justify-content: flex-end;
+  margin-bottom: 109.0px;
+  margin-left: 24px;
+  min-width: 227px;
+  padding: 11px 45px;
+}
+
+.otp-verification .send-otp {
+  letter-spacing: 0;
+  line-height: 27px;
+  min-height: 29px;
+  min-width: 128px;
+  white-space: nowrap;
+}
+
+.otp-verification .terms-privacy-security-contact-us {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: 22.0px;
+  margin-top: 193px;
+  min-height: 32px;
+  min-width: 498px;
+  white-space: nowrap;
+}

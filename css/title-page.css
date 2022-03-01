@@ -1,0 +1,1502 @@
+/* screen - title-page */
+
+.title-page {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 4306px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.title-page .overlap-group12 {
+  height: 3707px;
+  margin-right: -253px;
+  margin-top: -4px;
+  position: relative;
+  width: 2338px;
+  z-index: 1;
+}
+
+.title-page .overlap-group13 {
+  height: 3512px;
+  left: 6px;
+  position: absolute;
+  top: 0;
+  width: 2332px;
+}
+
+.title-page .overlap-group3 {
+  height: 2349px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 2187px;
+}
+
+.title-page .rectangle-40 {
+  background-color: #e8e8e8;
+  height: 719px;
+  left: 159px;
+  position: absolute;
+  top: 1147px;
+  width: 1920px;
+}
+
+.title-page .component-28-1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 32px;
+  box-shadow: 0px 3px 6px #00000029;
+  display: flex;
+  height: 676px;
+  left: 295px;
+  position: absolute;
+  top: 1345px;
+  width: 503px;
+}
+
+.title-page .lorem-ipsum-dolor-si {
+  color: #426b33;
+  font-family: var(--font-family-lemonmilk-bold);
+  font-size: 23px;
+  font-weight: 700;
+  height: 389px;
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-bottom: 10.5px;
+  margin-left: 5px;
+  white-space: nowrap;
+  width: 316px;
+}
+
+.title-page .x180419_-boxing_05_01-1-1 {
+  height: 1148px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 2176px;
+}
+
+.title-page .rectangle-13 {
+  background-color: var(--black);
+  height: 842px;
+  left: 596px;
+  opacity: 0.29;
+  position: absolute;
+  top: 161px;
+  width: 851px;
+}
+
+.title-page .title {
+  color: var(--white);
+  font-family: var(--font-family-roboto-condensedbold);
+  font-size: 130px;
+  font-weight: 700;
+  left: 693px;
+  letter-spacing: 0;
+  line-height: 130px;
+  position: absolute;
+  top: 301px;
+  width: 749px;
+}
+
+.title-page .repeat-grid-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 245px;
+  left: 1380px;
+  min-width: 302px;
+  position: absolute;
+  top: 805px;
+}
+
+.title-page .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 235px;
+  width: 31px;
+}
+
+.title-page .x0 {
+  background-color: var(--white);
+  border-radius: 15.5px;
+  height: 31px;
+  width: 31px;
+}
+
+.title-page .x6 {
+  background-color: var(--white);
+  border-radius: 15.5px;
+  height: 31px;
+  margin-top: 20px;
+  width: 31px;
+}
+
+.title-page .x12 {
+  background-color: var(--white);
+  border-radius: 15.5px;
+  height: 31px;
+  margin-top: 20px;
+  width: 31px;
+}
+
+.title-page .x18 {
+  background-color: var(--white);
+  border-radius: 15.5px;
+  height: 31px;
+  margin-top: 20px;
+  width: 31px;
+}
+
+.title-page .x24 {
+  background-color: var(--white);
+  border-radius: 15.5px;
+  height: 31px;
+  margin-top: 20px;
+  width: 31px;
+}
+
+.title-page .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+  min-height: 235px;
+  width: 31px;
+}
+
+.title-page .x1 {
+  background-color: var(--white);
+  border-radius: 15.5px;
+  height: 31px;
+  width: 31px;
+}
+
+.title-page .x7 {
+  background-color: var(--white);
+  border-radius: 15.5px;
+  height: 31px;
+  margin-top: 20px;
+  width: 31px;
+}
+
+.title-page .x13 {
+  background-color: var(--white);
+  border-radius: 15.5px;
+  height: 31px;
+  margin-top: 20px;
+  width: 31px;
+}
+
+.title-page .x19 {
+  background-color: var(--white);
+  border-radius: 15.5px;
+  height: 31px;
+  margin-top: 20px;
+  width: 31px;
+}
+
+.title-page .x25 {
+  background-color: var(--white);
+  border-radius: 15.5px;
+  height: 31px;
+  margin-top: 20px;
+  width: 31px;
+}
+
+.title-page .x2 {
+  background-color: var(--white);
+  border-radius: 15.5px;
+  height: 31px;
+  width: 31px;
+}
+
+.title-page .x8 {
+  background-color: var(--white);
+  border-radius: 15.5px;
+  height: 31px;
+  margin-top: 20px;
+  width: 31px;
+}
+
+.title-page .x14 {
+  background-color: var(--white);
+  border-radius: 15.5px;
+  height: 31px;
+  margin-top: 20px;
+  width: 31px;
+}
+
+.title-page .x20 {
+  background-color: var(--white);
+  border-radius: 15.5px;
+  height: 31px;
+  margin-top: 20px;
+  width: 31px;
+}
+
+.title-page .x26 {
+  background-color: var(--white);
+  border-radius: 15.5px;
+  height: 31px;
+  margin-top: 20px;
+  width: 31px;
+}
+
+.title-page .x3 {
+  background-color: var(--white);
+  border-radius: 15.5px;
+  height: 31px;
+  width: 31px;
+}
+
+.title-page .x9 {
+  background-color: var(--white);
+  border-radius: 15.5px;
+  height: 31px;
+  margin-top: 20px;
+  width: 31px;
+}
+
+.title-page .x15 {
+  background-color: var(--white);
+  border-radius: 15.5px;
+  height: 31px;
+  margin-top: 20px;
+  width: 31px;
+}
+
+.title-page .x21 {
+  background-color: var(--white);
+  border-radius: 15.5px;
+  height: 31px;
+  margin-top: 20px;
+  width: 31px;
+}
+
+.title-page .x27 {
+  background-color: var(--white);
+  border-radius: 15.5px;
+  height: 31px;
+  margin-top: 20px;
+  width: 31px;
+}
+
+.title-page .x4 {
+  background-color: var(--white);
+  border-radius: 15.5px;
+  height: 31px;
+  width: 31px;
+}
+
+.title-page .x10 {
+  background-color: var(--white);
+  border-radius: 15.5px;
+  height: 31px;
+  margin-top: 20px;
+  width: 31px;
+}
+
+.title-page .x16 {
+  background-color: var(--white);
+  border-radius: 15.5px;
+  height: 31px;
+  margin-top: 20px;
+  width: 31px;
+}
+
+.title-page .x22 {
+  background-color: var(--white);
+  border-radius: 15.5px;
+  height: 31px;
+  margin-top: 20px;
+  width: 31px;
+}
+
+.title-page .x28 {
+  background-color: var(--white);
+  border-radius: 15.5px;
+  height: 31px;
+  margin-top: 20px;
+  width: 31px;
+}
+
+.title-page .x5 {
+  background-color: var(--white);
+  border-radius: 15.5px;
+  height: 31px;
+  width: 31px;
+}
+
+.title-page .x11 {
+  background-color: var(--white);
+  border-radius: 15.5px;
+  height: 31px;
+  margin-top: 20px;
+  width: 31px;
+}
+
+.title-page .x17 {
+  background-color: var(--white);
+  border-radius: 15.5px;
+  height: 31px;
+  margin-top: 20px;
+  width: 31px;
+}
+
+.title-page .x23 {
+  background-color: var(--white);
+  border-radius: 15.5px;
+  height: 31px;
+  margin-top: 20px;
+  width: 31px;
+}
+
+.title-page .x29 {
+  background-color: var(--white);
+  border-radius: 15.5px;
+  height: 31px;
+  margin-top: 20px;
+  width: 31px;
+}
+
+.title-page .component-66-1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 54px;
+  cursor: pointer;
+  display: flex;
+  height: 108px;
+  justify-content: flex-end;
+  left: 693px;
+  min-width: 297px;
+  padding: 27px 50px;
+  position: absolute;
+  top: 841px;
+}
+
+.title-page .sign-up {
+  color: var(--black);
+  font-family: var(--font-family-lemon_milk);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 50px;
+  min-height: 52px;
+  min-width: 194px;
+  white-space: nowrap;
+}
+
+.title-page .span0 {
+  font-family: var(--font-family-lemonmilk-medium);
+  font-weight: 500;
+}
+
+.title-page .span1 {
+  font-family: var(--font-family-lemonmilk-regular);
+}
+
+.title-page .rectangle-35 {
+  background-color: var(--white);
+  border-radius: 32px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 785px;
+  left: 834px;
+  position: absolute;
+  top: 1291px;
+  width: 570px;
+}
+
+.title-page .path-22 {
+  height: 662px;
+  left: 1031px;
+  object-fit: cover;
+  position: absolute;
+  top: 1355px;
+  width: 18px;
+}
+
+.title-page .rectangle-41 {
+  background-color: var(--white);
+  border-radius: 32px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 676px;
+  left: 1447px;
+  position: absolute;
+  top: 1345px;
+  width: 503px;
+}
+
+.title-page .path-24 {
+  height: 273px;
+  left: 834px;
+  object-fit: cover;
+  position: absolute;
+  top: 1291px;
+  width: 570px;
+}
+
+.title-page .path-25 {
+  height: 219px;
+  left: 1447px;
+  object-fit: cover;
+  position: absolute;
+  top: 1345px;
+  width: 503px;
+}
+
+.title-page .text-1 {
+  color: var(--white);
+  font-family: var(--font-family-lemonmilk-bold);
+  font-size: 53px;
+  font-weight: 700;
+  left: 1494px;
+  letter-spacing: 0;
+  line-height: 53px;
+  position: absolute;
+  text-align: center;
+  top: 1454px;
+  white-space: nowrap;
+}
+
+.title-page .build-up-the-momentum {
+  left: 1471px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 1522px;
+  white-space: nowrap;
+}
+
+.title-page .month {
+  color: var(--silver);
+  font-family: var(--font-family-lemonmilk-bold);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  left: 1659px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 1470px;
+  white-space: nowrap;
+}
+
+.title-page .quarterly-plan {
+  color: var(--white);
+  font-family: var(--font-family-arial-bold);
+  font-size: 65px;
+  font-weight: 700;
+  left: 1492px;
+  letter-spacing: 0;
+  line-height: 65px;
+  position: absolute;
+  text-align: center;
+  top: 1379px;
+  white-space: nowrap;
+}
+
+.title-page .component-27-1 {
+  align-items: center;
+  background-image: url(../img/path-26@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  left: 295px;
+  min-height: 219px;
+  padding: 6px 10px;
+  position: absolute;
+  top: 1345px;
+  width: 503px;
+}
+
+.title-page .monthly-plan {
+  color: var(--white);
+  font-family: var(--font-family-arial-bold);
+  font-size: 65px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 65px;
+  margin-left: 3.0px;
+  margin-top: 28px;
+  min-height: 75px;
+  min-width: 406px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.title-page .flex-row {
+  align-items: center;
+  display: flex;
+  height: 55px;
+  margin-left: 22.0px;
+  margin-top: 3px;
+  min-width: 421px;
+}
+
+.title-page .text-2 {
+  color: var(--white);
+  font-family: var(--font-family-lemonmilk-bold);
+  font-size: 53px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 53px;
+  min-height: 55px;
+  min-width: 150px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.title-page .month-1 {
+  color: var(--silver);
+  font-family: var(--font-family-lemonmilk-bold);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: 11px;
+  margin-top: 7.0px;
+  min-height: 32px;
+  min-width: 104px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.title-page .overlap-group {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 14px;
+  display: flex;
+  height: 27px;
+  margin-left: 60px;
+  margin-top: 6.0px;
+  min-width: 96px;
+  padding: 0 17px;
+}
+
+.title-page .x3-off {
+  color: var(--red);
+  font-family: var(--font-family-lemonmilk-bold);
+  font-size: 17px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 17px;
+  min-height: 19px;
+  min-width: 53px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.title-page .starting-out-try-this {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: 12px;
+  min-height: 34px;
+  min-width: 340px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.title-page .rectangle-44 {
+  background-color: var(--white);
+  border-radius: 14px;
+  height: 27px;
+  left: 1809px;
+  position: absolute;
+  top: 1473px;
+  width: 96px;
+}
+
+.title-page .x7-off {
+  color: var(--red);
+  font-family: var(--font-family-lemonmilk-bold);
+  font-size: 17px;
+  font-weight: 700;
+  left: 1829px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  text-align: center;
+  top: 1478px;
+  white-space: nowrap;
+}
+
+.title-page .component-29-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 859px;
+  min-height: 345px;
+  position: absolute;
+  top: 1196px;
+  width: 612px;
+}
+
+.title-page .overlap-group1 {
+  align-self: flex-end;
+  height: 210px;
+  position: relative;
+  width: 556px;
+}
+
+.title-page .yearly-plan {
+  color: var(--white);
+  font-family: var(--font-family-arial-bold);
+  font-size: 73px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 73px;
+  position: absolute;
+  text-align: center;
+  top: 127px;
+  white-space: nowrap;
+}
+
+.title-page .ellipse-5 {
+  background-color: var(--white);
+  border-radius: 86px;
+  height: 172px;
+  left: 384px;
+  position: absolute;
+  top: 0;
+  width: 172px;
+}
+
+.title-page .save-46best-value {
+  color: #089516;
+  font-family: var(--font-family-lemonmilk-bold);
+  font-size: 22px;
+  font-weight: 700;
+  left: 397px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 64px;
+  white-space: nowrap;
+}
+
+.title-page .flex-row-1 {
+  align-items: center;
+  display: flex;
+  height: 63px;
+  margin-left: 29px;
+  margin-top: 13px;
+  min-width: 402px;
+}
+
+.title-page .text-3 {
+  color: var(--white);
+  font-family: var(--font-family-lemonmilk-bold);
+  font-size: 61px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 61px;
+  min-height: 63px;
+  min-width: 138px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.title-page .month-2 {
+  align-self: flex-end;
+  color: var(--silver);
+  font-family: var(--font-family-lemonmilk-bold);
+  font-size: 31px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 31px;
+  margin-bottom: 7px;
+  margin-left: 17px;
+  min-height: 33px;
+  min-width: 107px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.title-page .overlap-group2 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 14px;
+  display: flex;
+  height: 27px;
+  margin-left: 44px;
+  margin-top: 14.0px;
+  min-width: 96px;
+  padding: 0 14px;
+}
+
+.title-page .x10-off {
+  color: var(--red);
+  font-family: var(--font-family-lemonmilk-bold);
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 17px;
+  min-width: 56px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.title-page .for-the-ultimate-grind {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: 27px;
+  min-height: 34px;
+  min-width: 348px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.title-page .ellipse-6 {
+  background-color: var(--white);
+  border-radius: 77.5px/76.5px;
+  height: 153px;
+  left: 1883px;
+  position: absolute;
+  top: 1247px;
+  width: 155px;
+}
+
+.title-page .save-22most-popular {
+  color: var(--red);
+  font-family: var(--font-family-lemonmilk-bold);
+  font-size: 12px;
+  font-weight: 700;
+  left: 1913px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 1312px;
+  white-space: nowrap;
+}
+
+.title-page .lorem-ipsum-dolor-si-1 {
+  color: #21659a;
+  font-family: var(--font-family-lemonmilk-bold);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  left: 855px;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  top: 1637px;
+  white-space: nowrap;
+}
+
+.title-page .lorem-ipsum-dolor-si-2 {
+  color: var(--black);
+  font-family: var(--font-family-lemonmilk-bold);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  left: 1455px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 1637px;
+  white-space: nowrap;
+}
+
+.title-page .ellipse-11 {
+  background-color: #d4f2ff;
+  border-radius: 178px;
+  height: 356px;
+  left: 0;
+  position: absolute;
+  top: 1993px;
+  width: 356px;
+}
+
+.title-page .overlap-group9 {
+  height: 593px;
+  left: 226px;
+  position: absolute;
+  top: 2652px;
+  width: 2106px;
+}
+
+.title-page .path-1 {
+  height: 1px;
+  left: 186px;
+  object-fit: cover;
+  position: absolute;
+  top: 341px;
+  width: 1920px;
+}
+
+.title-page .fitness-tracker-sketch-freebies-large {
+  border-radius: 64px;
+  height: 411px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 572px;
+}
+
+.title-page .ellipse-10 {
+  background-color: #fff6f6;
+  border-radius: 181.5px;
+  height: 363px;
+  left: 1634px;
+  position: absolute;
+  top: 230px;
+  width: 363px;
+}
+
+.title-page .how-swasthya-makes-your-life-better {
+  color: var(--black);
+  font-family: var(--font-family-berlinsans_fb-regular);
+  font-size: 62px;
+  font-weight: 400;
+  left: 569px;
+  letter-spacing: 0;
+  line-height: 62px;
+  position: absolute;
+  text-align: center;
+  top: 2178px;
+  white-space: nowrap;
+}
+
+.title-page .upto-96-accurate-workout-tracking {
+  left: 900px;
+  letter-spacing: 0;
+  line-height: 52px;
+  position: absolute;
+  text-align: center;
+  top: 2784px;
+  white-space: nowrap;
+}
+
+.title-page .overlap-group7 {
+  height: 17px;
+  left: 1788px;
+  position: absolute;
+  top: 2802px;
+  width: 291px;
+}
+
+.title-page .line-4 {
+  height: 3px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 277px;
+}
+
+.title-page .ellipse-8 {
+  background-color: var(--white);
+  border-radius: 8.5px;
+  height: 17px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 17px;
+}
+
+.title-page .istockphoto-914932994-612x612 {
+  height: 480px;
+  left: 1381px;
+  object-fit: cover;
+  position: absolute;
+  top: 2257px;
+  width: 564px;
+}
+
+.title-page .get-the-best-out-of {
+  left: 898px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 2860px;
+  white-space: nowrap;
+}
+
+.title-page .overlap-group6 {
+  height: 346px;
+  left: 502px;
+  position: absolute;
+  top: 3073px;
+  width: 1562px;
+}
+
+.title-page .check-your-body-vita {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 52px;
+  position: absolute;
+  top: 175px;
+  white-space: nowrap;
+}
+
+.title-page .apple-watch-logo-768x768 {
+  height: 249px;
+  left: 1007px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 331px;
+}
+
+.title-page .download {
+  height: 144px;
+  left: 1299px;
+  object-fit: cover;
+  position: absolute;
+  top: 202px;
+  width: 263px;
+}
+
+.title-page .new-vital-tracer {
+  height: 190px;
+  left: 1554px;
+  object-fit: cover;
+  position: absolute;
+  top: 3322px;
+  width: 220px;
+}
+
+.title-page .compatibility-with-s {
+  left: 502px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 3344px;
+  white-space: nowrap;
+}
+
+.title-page .state-of-the-art-calorie-counter {
+  left: 591px;
+  letter-spacing: 0;
+  line-height: 52px;
+  position: absolute;
+  text-align: center;
+  top: 2422px;
+  white-space: nowrap;
+}
+
+.title-page .overlap-group5 {
+  height: 19px;
+  left: 168px;
+  position: absolute;
+  top: 2438px;
+  width: 397px;
+}
+
+.title-page .line-3 {
+  height: 4px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 387px;
+}
+
+.title-page .ellipse-7 {
+  background-color: var(--white);
+  border-radius: 9.5px;
+  height: 19px;
+  left: 378px;
+  position: absolute;
+  top: 0;
+  width: 19px;
+}
+
+.title-page .track-calories-prot {
+  left: 591px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 2516px;
+  white-space: nowrap;
+}
+
+.title-page .overlap-group8 {
+  height: 18px;
+  left: 165px;
+  position: absolute;
+  top: 3266px;
+  width: 322px;
+}
+
+.title-page .path-27 {
+  height: 5px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 310px;
+}
+
+.title-page .ellipse-9 {
+  background-color: var(--white);
+  border-radius: 9px;
+  height: 18px;
+  left: 304px;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.title-page .ellipse-12 {
+  background-color: #d5ffd8;
+  border-radius: 165.5px;
+  height: 331px;
+  left: 0;
+  position: absolute;
+  top: 3376px;
+  width: 331px;
+}
+
+.title-page .whats-app_-image_202 {
+  height: 101px;
+  left: 45px;
+  object-fit: cover;
+  position: fixed;
+  top: 0;
+  width: 202px;
+  z-index: 12;
+}
+
+.title-page .navigation {
+  background-color: #161c1d;
+  height: 103px;
+  left: 0;
+  opacity: 0.25;
+  position: fixed;
+  top: 0;
+  width: 1920px;
+  z-index: 3;
+}
+
+.title-page .component-9-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 103px;
+  justify-content: flex-end;
+  left: 1633px;
+  min-width: 143px;
+  padding: 31px 13.0px;
+  position: fixed;
+  top: 0;
+  z-index: 7;
+}
+
+.title-page .support {
+  letter-spacing: 0;
+  line-height: 25px;
+  min-height: 35px;
+  text-align: center;
+  width: 115px;
+}
+
+.title-page .component-12-1 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  height: 103px;
+  left: 1776px;
+  min-width: 130px;
+  padding: 0 38px;
+  position: fixed;
+  top: 0;
+  z-index: 10;
+}
+
+.title-page .pngegg {
+  height: 45px;
+  object-fit: cover;
+  width: 54px;
+}
+
+.title-page .rectangle-2859 {
+  background-color: var(--black);
+  height: 103px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 281px;
+  z-index: 11;
+}
+
+.title-page .component-11-1 {
+  align-items: flex-end;
+  cursor: pointer;
+  display: flex;
+  height: 102px;
+  left: 618px;
+  position: fixed;
+  top: 1px;
+  width: 233px;
+  z-index: 9;
+}
+
+.title-page .shop {
+  flex: 1;
+  height: 35px;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-bottom: 31px;
+  margin-left: 12px;
+  margin-right: 10px;
+  text-align: center;
+}
+
+.title-page .component-7-1 {
+  align-items: flex-end;
+  cursor: pointer;
+  display: flex;
+  height: 98px;
+  justify-content: flex-end;
+  left: 1184px;
+  min-width: 222px;
+  padding: 29px 3px;
+  position: fixed;
+  top: 5px;
+  z-index: 5;
+}
+
+.title-page .fitness-tracking {
+  letter-spacing: 0;
+  line-height: 25px;
+  min-height: 35px;
+  text-align: center;
+  width: 214px;
+}
+
+.title-page .component-8-1 {
+  align-items: flex-end;
+  cursor: pointer;
+  display: flex;
+  height: 98px;
+  justify-content: flex-end;
+  left: 1413px;
+  min-width: 220px;
+  padding: 29px 13px;
+  position: fixed;
+  top: 5px;
+  z-index: 6;
+}
+
+.title-page .login-sign-up {
+  letter-spacing: 0;
+  line-height: 25px;
+  min-height: 35px;
+  text-align: center;
+  width: 192px;
+}
+
+.title-page .component-10-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 98px;
+  justify-content: flex-end;
+  left: 858px;
+  min-width: 311px;
+  padding: 29px 4px;
+  position: fixed;
+  top: 5px;
+  z-index: 8;
+}
+
+.title-page .body-vitals-monitoring {
+  letter-spacing: 0;
+  line-height: 25px;
+  min-height: 35px;
+  text-align: center;
+  width: 301px;
+}
+
+.title-page .explore-our-site-an {
+  align-self: center;
+  color: var(--chicago-2);
+  font-family: var(--font-family-arial-regular);
+  font-size: 28px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-left: 53.0px;
+  margin-top: 2px;
+  min-height: 33px;
+  min-width: 933px;
+  white-space: nowrap;
+  z-index: 4;
+}
+
+.title-page .overlap-group4 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-23@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  margin-top: 86px;
+  min-height: 484px;
+  padding: 27px 14px;
+  width: 1920px;
+  z-index: 2;
+}
+
+.title-page .copyrights-2022-all-rights-reserved {
+  align-self: center;
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: 35px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-left: 53.0px;
+  min-height: 51px;
+  text-align: center;
+  width: 1729px;
+}
+
+.title-page .flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 308px;
+  margin-top: 29px;
+  min-width: 1880px;
+}
+
+.title-page .flex-row-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 307px;
+  min-width: 868px;
+}
+
+.title-page .flex-col-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 299px;
+  width: 587px;
+}
+
+.title-page .overlap-group11 {
+  height: 207px;
+  position: relative;
+  width: 587px;
+}
+
+.title-page .overlap-group1-1 {
+  height: 164px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 587px;
+}
+
+.title-page .overlap-group-1 {
+  height: 141px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 587px;
+}
+
+.title-page .overlap-group10 {
+  height: 104px;
+  left: 18px;
+  position: absolute;
+  top: 0;
+  width: 569px;
+}
+
+.title-page .contact-us {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 0;
+  width: 360px;
+}
+
+.title-page .swasthyayour2ndheartbeatgmailcom {
+  left: 55px;
+  letter-spacing: 0;
+  line-height: 100px;
+  position: absolute;
+  top: 68px;
+  white-space: nowrap;
+}
+
+.title-page .pngegg-16 {
+  height: 47px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 94px;
+  width: 47px;
+}
+
+.title-page .phone {
+  left: 73px;
+  letter-spacing: 0;
+  line-height: 100px;
+  position: absolute;
+  top: 128px;
+  white-space: nowrap;
+  width: 192px;
+}
+
+.title-page .pngegg-8 {
+  height: 48px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 158px;
+  width: 48px;
+}
+
+.title-page .flex-row-4 {
+  align-items: center;
+  display: flex;
+  height: 76px;
+  margin-top: 16px;
+  min-width: 535px;
+}
+
+.title-page .pngegg-14 {
+  height: 49px;
+  margin-top: 1.0px;
+  object-fit: cover;
+  width: 49px;
+}
+
+.title-page .bank-street-new-delh {
+  letter-spacing: 0;
+  line-height: 39px;
+  margin-left: 24px;
+  min-height: 76px;
+  width: 462px;
+}
+
+.title-page .path-19 {
+  align-self: flex-end;
+  height: 292px;
+  margin-left: 67px;
+  object-fit: cover;
+  width: 2px;
+}
+
+.title-page .pngegg-15 {
+  align-self: center;
+  height: 73px;
+  margin-bottom: 44.34px;
+  margin-left: 139px;
+  object-fit: cover;
+  width: 73px;
+}
+
+.title-page .flex-col-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 4px;
+  min-height: 167px;
+  width: 312px;
+}
+
+.title-page .follow-us {
+  letter-spacing: 0;
+  line-height: 50px;
+  min-height: 73px;
+  width: 288px;
+}
+
+.title-page .pngegg-container {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  margin-top: 27px;
+  min-width: 276px;
+}
+
+.title-page .pngegg-13 {
+  height: 67px;
+  object-fit: cover;
+  width: 67px;
+}
+
+.title-page .pngegg-11 {
+  height: 63px;
+  margin-left: 40px;
+  object-fit: cover;
+  width: 63px;
+}
+
+.title-page .pngegg-10 {
+  height: 66px;
+  margin-left: 40px;
+  object-fit: cover;
+  width: 66px;
+}
+
+.title-page .line-2 {
+  align-self: flex-end;
+  height: 292px;
+  margin-left: 154px;
+  object-fit: cover;
+  width: 2px;
+}
+
+.title-page .flex-col-4 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 58px;
+  min-height: 269px;
+  width: 483px;
+}
+
+.title-page .more-info {
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-left: 43.0px;
+  min-height: 73px;
+  width: 282px;
+}
+
+.title-page .privacy-policy {
+  letter-spacing: 0;
+  line-height: 39px;
+  margin-bottom: -2px;
+  margin-top: 14px;
+  min-height: 37px;
+  text-align: center;
+  white-space: nowrap;
+  width: 483px;
+}
+
+.title-page .x-t-cs {
+  letter-spacing: 0;
+  line-height: 39px;
+  margin-bottom: -2px;
+  margin-top: 9px;
+  min-height: 37px;
+  text-align: center;
+  white-space: nowrap;
+  width: 321px;
+}
+
+.title-page .about-us {
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-left: 6.0px;
+  margin-top: 16px;
+  min-height: 37px;
+  width: 137px;
+}

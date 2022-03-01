@@ -1,0 +1,100 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+
+@import url("https://fonts.googleapis.com/css?family=Poppins:400,500|Roboto:400");
+@font-face {
+  font-family: "Roboto-CondensedBold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/RobotoCondensed-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "LEMONMILK-Medium";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/LEMONMILK-Medium.otf") format("opentype");
+}
+@font-face {
+  font-family: "LEMONMILK-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/LEMONMILK-Regular.otf") format("opentype");
+}
+@font-face {
+  font-family: "LEMONMILK-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/LEMONMILK-Bold.otf") format("opentype");
+}
+@font-face {
+  font-family: "Arial-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/FontsFree-Net-arial-bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "BerlinSans FB-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Berlin Sans FB Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Arial-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Arial.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Roboto-Condensed";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Roboto-Condensed.ttf") format("truetype");
+}
+@font-face {
+  font-family: "SegoeUI-Semibold";
+  font-style: normal;
+  font-weight: 600;
+  src: url("../fonts/seguisb.ttf") format("truetype");
+}
+@font-face {
+  font-family: "SegoeUI-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/segoe-ui.ttf") format("truetype");
+}
+@font-face {
+  font-family: "SegoeUI-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/segoeuib.ttf") format("truetype");
+}
+@font-face {
+  font-family: "SegoeUI-SemiboldItalic";
+  font-style: italic;
+  font-weight: 600;
+  src: url("../fonts/seguisbi.ttf") format("truetype");
+}
+
+/* The following line is used to measure usage of this code in production. For more info see our usage billing page */
+@import url("https://px.animaapp.com/621783087ac634e0a5ff9eba.6217830b58e255a5c6856817.YpKQz1M.hcp.png");
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+* {
+  box-sizing: border-box;
+}

@@ -1,0 +1,274 @@
+/* screen - get-started-with-calorie-tracking */
+
+.get-started-with-calorie-tracking {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1219px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.get-started-with-calorie-tracking .overlap-group {
+  align-self: flex-start;
+  height: 445px;
+  margin-left: -135px;
+  margin-top: -187px;
+  position: relative;
+  width: 2075px;
+}
+
+.get-started-with-calorie-tracking .rectangle-2829 {
+  background-color: var(--white);
+  height: 216px;
+  left: 135px;
+  position: absolute;
+  top: 187px;
+  width: 1920px;
+}
+
+.get-started-with-calorie-tracking .screenshot_18 {
+  background-image: url(../img/screenshot-18@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 89px;
+  left: 245px;
+  position: absolute;
+  top: 251px;
+  width: 254px;
+}
+
+.get-started-with-calorie-tracking .ellipse-259 {
+  border-radius: 187px;
+  height: 374px;
+  left: 656px;
+  opacity: 0.18;
+  position: absolute;
+  top: 0;
+  width: 374px;
+}
+
+.get-started-with-calorie-tracking .calorie-tracker {
+  left: 1413px;
+  letter-spacing: 0;
+  line-height: 70px;
+  position: absolute;
+  top: 273px;
+  white-space: nowrap;
+}
+
+.get-started-with-calorie-tracking .ellipse-258 {
+  border-radius: 187px;
+  height: 374px;
+  left: 0;
+  opacity: 0.18;
+  position: absolute;
+  top: 71px;
+  width: 374px;
+}
+
+.get-started-with-calorie-tracking .seems-like-its-your-first-time-here {
+  color: #9f88eb;
+  font-family: var(--font-family-segoeui-regular);
+  font-size: 53px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 53px;
+  margin-left: 14.0px;
+  margin-top: 134px;
+  min-height: 55px;
+  min-width: 822px;
+  white-space: nowrap;
+}
+
+.get-started-with-calorie-tracking .pngegg-20 {
+  cursor: pointer;
+  display: flex;
+  height: 107px;
+  margin-left: 1.0px;
+  margin-top: 56px;
+  width: 353px;
+}
+
+.get-started-with-calorie-tracking .pngegg-20-1 {
+  border-radius: 42px;
+  flex: 1;
+  object-fit: cover;
+  width: 353px;
+}
+
+.get-started-with-calorie-tracking .overlap-group1 {
+  align-items: flex-start;
+  background-image: url(../img/screenshot-24@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 378px;
+  margin-top: 231px;
+  min-width: 1920px;
+  padding: 69px 295px;
+}
+
+.get-started-with-calorie-tracking .high-quality-digital {
+  align-self: flex-end;
+  height: 136px;
+  letter-spacing: -0.20px;
+  line-height: 26px;
+  margin-bottom: 7px;
+  width: 291px;
+}
+
+.get-started-with-calorie-tracking .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 234px;
+  min-height: 232px;
+  width: 186px;
+}
+
+.get-started-with-calorie-tracking .products {
+  letter-spacing: -0.35px;
+  line-height: 22px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.get-started-with-calorie-tracking .design-systems {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 23px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.get-started-with-calorie-tracking .themes-templates {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 20px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.get-started-with-calorie-tracking .mockups {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 21px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.get-started-with-calorie-tracking .presentations {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 20px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.get-started-with-calorie-tracking .wireframes-kits {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 21px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.get-started-with-calorie-tracking .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 19px;
+  min-height: 190px;
+  width: 160px;
+}
+
+.get-started-with-calorie-tracking .legals {
+  letter-spacing: -0.35px;
+  line-height: 22px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.get-started-with-calorie-tracking .license {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 23px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.get-started-with-calorie-tracking .refund-policy {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 20px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.get-started-with-calorie-tracking .about-us {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 21px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.get-started-with-calorie-tracking .contacts {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 20px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.get-started-with-calorie-tracking .flex-col-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 19px;
+  min-height: 204px;
+  width: 296px;
+}
+
+.get-started-with-calorie-tracking .contacts-1 {
+  letter-spacing: -0.35px;
+  line-height: 22px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.get-started-with-calorie-tracking .fell-free-get-in-tou {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-top: 23px;
+  min-height: 47px;
+  width: 296px;
+}
+
+.get-started-with-calorie-tracking .phone {
+  letter-spacing: -0.35px;
+  line-height: 14px;
+  margin-top: 49px;
+  min-height: 21px;
+  width: 296px;
+}
+
+.get-started-with-calorie-tracking .deniscraftworkdesi {
+  letter-spacing: -0.35px;
+  line-height: 14px;
+  margin-top: 21px;
+  min-height: 21px;
+  width: 296px;
+}

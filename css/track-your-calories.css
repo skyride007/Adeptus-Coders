@@ -1,0 +1,538 @@
+/* screen - track-your-calories */
+
+.track-your-calories {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1445px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.track-your-calories .overlap-group1 {
+  height: 1254px;
+  margin-left: -135px;
+  margin-top: -187px;
+  position: relative;
+  width: 2075px;
+}
+
+.track-your-calories .rectangle-2829 {
+  background-color: var(--white);
+  height: 216px;
+  left: 135px;
+  position: absolute;
+  top: 187px;
+  width: 1920px;
+}
+
+.track-your-calories .screenshot_18 {
+  height: 89px;
+  left: 245px;
+  object-fit: cover;
+  position: absolute;
+  top: 251px;
+  width: 254px;
+}
+
+.track-your-calories .ellipse-259 {
+  border-radius: 187px;
+  height: 374px;
+  left: 656px;
+  opacity: 0.18;
+  position: absolute;
+  top: 0;
+  width: 374px;
+}
+
+.track-your-calories .calorie-tracker {
+  left: 1413px;
+  letter-spacing: 0;
+  line-height: 70px;
+  position: absolute;
+  top: 273px;
+  white-space: nowrap;
+}
+
+.track-your-calories .ellipse-258 {
+  border-radius: 187px;
+  height: 374px;
+  left: 0;
+  opacity: 0.18;
+  position: absolute;
+  top: 71px;
+  width: 374px;
+}
+
+.track-your-calories .rectangle-2830 {
+  background-color: var(--white);
+  height: 132px;
+  left: 135px;
+  position: absolute;
+  top: 403px;
+  width: 1920px;
+}
+
+.track-your-calories .pngegg-21 {
+  height: 959px;
+  left: 135px;
+  object-fit: cover;
+  position: absolute;
+  top: 295px;
+  width: 1920px;
+}
+
+.track-your-calories .ellipse-260 {
+  background-color: var(--hawkes-blue);
+  border-radius: 156px/149px;
+  height: 298px;
+  left: 211px;
+  position: absolute;
+  top: 432px;
+  width: 312px;
+}
+
+.track-your-calories .line-1 {
+  height: 149px;
+  left: 367px;
+  object-fit: cover;
+  position: absolute;
+  top: 432px;
+  width: 1px;
+}
+
+.track-your-calories .line-2 {
+  height: 121px;
+  left: 367px;
+  object-fit: cover;
+  position: absolute;
+  top: 581px;
+  width: 91px;
+}
+
+.track-your-calories .path-2 {
+  height: 270px;
+  left: 368px;
+  object-fit: cover;
+  position: absolute;
+  top: 432px;
+  width: 155px;
+}
+
+.track-your-calories .rectangle-2843 {
+  background-color: var(--white);
+  border-radius: 66px;
+  height: 285px;
+  left: 546px;
+  position: absolute;
+  top: 445px;
+  width: 1346px;
+}
+
+.track-your-calories .x40-goal-calories-eaten {
+  height: 34px;
+  left: 582px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 556px;
+  white-space: nowrap;
+  width: 483px;
+}
+
+.track-your-calories .line-3 {
+  height: 256px;
+  left: 1114px;
+  object-fit: cover;
+  position: absolute;
+  top: 460px;
+  width: 1px;
+}
+
+.track-your-calories .protiens {
+  left: 1157px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 469px;
+  white-space: nowrap;
+  width: 313px;
+}
+
+.track-your-calories .fats {
+  left: 1543px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 469px;
+  white-space: nowrap;
+  width: 313px;
+}
+
+.track-your-calories .carbs {
+  left: 1157px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 598px;
+  white-space: nowrap;
+  width: 313px;
+}
+
+.track-your-calories .fibers {
+  left: 1543px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 598px;
+  white-space: nowrap;
+  width: 313px;
+}
+
+.track-your-calories .rectangle-2844 {
+  background-color: var(--hawkes-blue);
+  border-radius: 19px;
+  height: 37px;
+  left: 1157px;
+  position: absolute;
+  top: 535px;
+  width: 272px;
+}
+
+.track-your-calories .rectangle-2845 {
+  background-color: var(--hawkes-blue);
+  border-radius: 19px;
+  height: 37px;
+  left: 1543px;
+  position: absolute;
+  top: 535px;
+  width: 272px;
+}
+
+.track-your-calories .rectangle-2846 {
+  background-color: var(--hawkes-blue);
+  border-radius: 19px;
+  height: 37px;
+  left: 1543px;
+  position: absolute;
+  top: 664px;
+  width: 272px;
+}
+
+.track-your-calories .rectangle-2847 {
+  background-color: var(--hawkes-blue);
+  border-radius: 19px;
+  height: 37px;
+  left: 1157px;
+  position: absolute;
+  top: 664px;
+  width: 272px;
+}
+
+.track-your-calories .rectangle-2848 {
+  background-color: var(--white);
+  border-radius: 55px;
+  height: 388px;
+  left: 546px;
+  position: absolute;
+  top: 816px;
+  width: 484px;
+}
+
+.track-your-calories .breakfast {
+  left: 582px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 855px;
+  white-space: nowrap;
+  width: 522px;
+}
+
+.track-your-calories .morning-snack {
+  left: 582px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 918px;
+  white-space: nowrap;
+  width: 522px;
+}
+
+.track-your-calories .lunch {
+  left: 582px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 981px;
+  white-space: nowrap;
+  width: 522px;
+}
+
+.track-your-calories .evening-snack {
+  left: 582px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 1044px;
+  white-space: nowrap;
+  width: 522px;
+}
+
+.track-your-calories .dinner {
+  left: 582px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 1107px;
+  white-space: nowrap;
+  width: 522px;
+}
+
+.track-your-calories .pngegg-18 {
+  border-radius: 34px;
+  height: 53px;
+  left: 896px;
+  object-fit: cover;
+  position: absolute;
+  top: 855px;
+  width: 53px;
+}
+
+.track-your-calories .pngegg-18-1 {
+  border-radius: 34px;
+  height: 53px;
+  left: 896px;
+  object-fit: cover;
+  position: absolute;
+  top: 918px;
+  width: 53px;
+}
+
+.track-your-calories .pngegg-18-2 {
+  border-radius: 34px;
+  height: 53px;
+  left: 896px;
+  object-fit: cover;
+  position: absolute;
+  top: 981px;
+  width: 53px;
+}
+
+.track-your-calories .pngegg-18-3 {
+  border-radius: 34px;
+  height: 53px;
+  left: 896px;
+  object-fit: cover;
+  position: absolute;
+  top: 1044px;
+  width: 53px;
+}
+
+.track-your-calories .pngegg-18-4 {
+  border-radius: 34px;
+  height: 53px;
+  left: 896px;
+  object-fit: cover;
+  position: absolute;
+  top: 1107px;
+  width: 53px;
+}
+
+.track-your-calories .rectangle-2849 {
+  background-color: var(--white);
+  border-radius: 46px;
+  height: 103px;
+  left: 211px;
+  position: absolute;
+  top: 730px;
+  width: 351px;
+}
+
+.track-your-calories .calorie-count {
+  color: var(--dove-gray);
+  font-family: var(--font-family-segoeui-regular);
+  font-size: 45px;
+  font-weight: 400;
+  left: 236px;
+  letter-spacing: 0;
+  line-height: 45px;
+  position: absolute;
+  top: 745px;
+  white-space: nowrap;
+  width: 343px;
+}
+
+.track-your-calories .overlap-group {
+  align-items: flex-start;
+  background-image: url(../img/screenshot-24-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 379px;
+  min-width: 1920px;
+  padding: 69px 295px;
+}
+
+.track-your-calories .high-quality-digital {
+  align-self: flex-end;
+  height: 136px;
+  letter-spacing: -0.20px;
+  line-height: 26px;
+  margin-bottom: 7px;
+  width: 291px;
+}
+
+.track-your-calories .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 234px;
+  min-height: 233px;
+  width: 186px;
+}
+
+.track-your-calories .products {
+  letter-spacing: -0.35px;
+  line-height: 22px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.track-your-calories .design-systems {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 23px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.track-your-calories .themes-templates {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 20px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.track-your-calories .mockups {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 22px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.track-your-calories .presentations {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 20px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.track-your-calories .wireframes-kits {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 21px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.track-your-calories .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 19px;
+  min-height: 191px;
+  width: 160px;
+}
+
+.track-your-calories .legals {
+  letter-spacing: -0.35px;
+  line-height: 22px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.track-your-calories .license {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 23px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.track-your-calories .refund-policy {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 20px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.track-your-calories .about-us {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 22px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.track-your-calories .contacts {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 20px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.track-your-calories .flex-col-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 19px;
+  min-height: 205px;
+  width: 296px;
+}
+
+.track-your-calories .contacts-1 {
+  letter-spacing: -0.35px;
+  line-height: 22px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.track-your-calories .fell-free-get-in-tou {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-top: 23px;
+  min-height: 47px;
+  width: 296px;
+}
+
+.track-your-calories .phone {
+  letter-spacing: -0.35px;
+  line-height: 14px;
+  margin-top: 50px;
+  min-height: 21px;
+  width: 296px;
+}
+
+.track-your-calories .deniscraftworkdesi {
+  letter-spacing: -0.35px;
+  line-height: 14px;
+  margin-top: 21px;
+  min-height: 21px;
+  width: 296px;
+}

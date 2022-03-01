@@ -1,0 +1,543 @@
+/* screen - gender */
+
+.gender {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1446px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.gender .overlap-group1 {
+  height: 535px;
+  margin-left: -135px;
+  margin-top: -187px;
+  position: relative;
+  width: 2075px;
+}
+
+.gender .rectangle-2829 {
+  background-color: var(--white);
+  height: 216px;
+  left: 135px;
+  position: absolute;
+  top: 187px;
+  width: 1920px;
+}
+
+.gender .screenshot_18 {
+  background-image: url(../img/screenshot-18@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 89px;
+  left: 245px;
+  position: absolute;
+  top: 251px;
+  width: 254px;
+}
+
+.gender .ellipse-259 {
+  border-radius: 187px;
+  height: 374px;
+  left: 656px;
+  opacity: 0.18;
+  position: absolute;
+  top: 0;
+  width: 374px;
+}
+
+.gender .calorie-tracker {
+  left: 1413px;
+  letter-spacing: 0;
+  line-height: 70px;
+  position: absolute;
+  top: 273px;
+  white-space: nowrap;
+}
+
+.gender .ellipse-258 {
+  border-radius: 187px;
+  height: 374px;
+  left: 0;
+  opacity: 0.18;
+  position: absolute;
+  top: 71px;
+  width: 374px;
+}
+
+.gender .rectangle-2830 {
+  background-color: var(--white);
+  height: 132px;
+  left: 135px;
+  position: absolute;
+  top: 403px;
+  width: 1920px;
+}
+
+.gender .rectangle-2832 {
+  background-color: var(--white);
+  border: 1px solid var(--blaze-orange);
+  border-radius: 20px;
+  height: 90px;
+  left: 374px;
+  position: absolute;
+  top: 445px;
+  width: 239px;
+}
+
+.gender .rectangle-2833 {
+  background-color: var(--white);
+  height: 90px;
+  left: 613px;
+  position: absolute;
+  top: 445px;
+  width: 239px;
+}
+
+.gender .rectangle-2834 {
+  background-color: var(--white);
+  height: 90px;
+  left: 852px;
+  position: absolute;
+  top: 445px;
+  width: 239px;
+}
+
+.gender .rectangle-2835 {
+  background-color: var(--white);
+  height: 90px;
+  left: 1091px;
+  position: absolute;
+  top: 445px;
+  width: 239px;
+}
+
+.gender .gender-1 {
+  color: var(--blaze-orange);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  left: 465px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 482px;
+  white-space: nowrap;
+}
+
+.gender .height {
+  left: 706px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 482px;
+  white-space: nowrap;
+}
+
+.gender .weight {
+  left: 943px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 482px;
+  white-space: nowrap;
+}
+
+.gender .target-weight {
+  left: 1155px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 482px;
+  white-space: nowrap;
+}
+
+.gender .rectangle-2836 {
+  background-color: var(--white);
+  height: 90px;
+  left: 1330px;
+  position: absolute;
+  top: 445px;
+  width: 239px;
+}
+
+.gender .activity-routine {
+  left: 1388px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 482px;
+  white-space: nowrap;
+}
+
+.gender .rectangle-2837 {
+  background-color: var(--white);
+  height: 90px;
+  left: 1569px;
+  position: absolute;
+  top: 445px;
+  width: 239px;
+}
+
+.gender .medical-conditions {
+  left: 1612px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 482px;
+  white-space: nowrap;
+}
+
+.gender .rectangle-2838 {
+  background-color: var(--white);
+  height: 90px;
+  left: 1808px;
+  position: absolute;
+  top: 445px;
+  width: 247px;
+}
+
+.gender .finalising {
+  left: 1895px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 482px;
+  white-space: nowrap;
+}
+
+.gender .rectangle-2839 {
+  background-color: var(--white);
+  border-radius: 21px;
+  cursor: pointer;
+  height: 90px;
+  left: 135px;
+  position: absolute;
+  top: 445px;
+  width: 239px;
+}
+
+.gender .age {
+  left: 239px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 482px;
+  white-space: nowrap;
+}
+
+.gender .overlap-group2 {
+  background-image: url(../img/pngegg--21--1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 719px;
+  position: relative;
+  width: 1920px;
+}
+
+.gender .rectangle-2840 {
+  height: 449px;
+  left: 571px;
+  object-fit: cover;
+  position: absolute;
+  top: 101px;
+  width: 744px;
+}
+
+.gender .choose-your-gender {
+  left: 734px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 170px;
+  white-space: nowrap;
+}
+
+.gender .component-2-3 {
+  background-image: url(../img/path-1-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  display: flex;
+  height: 79px;
+  left: 834px;
+  position: absolute;
+  top: 424px;
+  width: 252px;
+}
+
+.gender .continue {
+  flex: 1;
+  height: 59px;
+  letter-spacing: 0;
+  line-height: 41px;
+  margin-left: 31px;
+  margin-right: 6px;
+  margin-top: 18px;
+  white-space: nowrap;
+}
+
+.gender .component-5-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 713px;
+  min-height: 125px;
+  position: absolute;
+  top: 246px;
+  width: 106px;
+}
+
+.gender .pngegg-23 {
+  height: 103px;
+  object-fit: cover;
+  width: 106px;
+}
+
+.gender .male {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-right: 1.0px;
+  margin-top: 2px;
+  min-height: 27px;
+  min-width: 45px;
+  white-space: nowrap;
+}
+
+.gender .component-4-1 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  left: 904px;
+  min-height: 114px;
+  position: absolute;
+  top: 257px;
+  width: 89px;
+}
+
+.gender .pngegg-24 {
+  height: 90px;
+  object-fit: cover;
+  width: 89px;
+}
+
+.gender .female {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-right: 4px;
+  margin-top: 4px;
+  min-height: 27px;
+  min-width: 69px;
+  white-space: nowrap;
+}
+
+.gender .component-3-2 {
+  align-items: flex-end;
+  display: flex;
+  height: 123px;
+  left: 1069px;
+  min-width: 111px;
+  position: absolute;
+  top: 250px;
+}
+
+.gender .overlap-group {
+  height: 130px;
+  margin-bottom: -6.5px;
+  position: relative;
+  width: 111px;
+}
+
+.gender .non-binary {
+  left: 7px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 102px;
+  white-space: nowrap;
+}
+
+.gender .pngegg-25 {
+  height: 105px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 104px;
+}
+
+.gender .overlap-group3 {
+  align-items: flex-start;
+  background-image: url(../img/screenshot-24-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 379px;
+  min-width: 1920px;
+  padding: 69px 295px;
+}
+
+.gender .high-quality-digital {
+  align-self: flex-end;
+  height: 136px;
+  letter-spacing: -0.20px;
+  line-height: 26px;
+  margin-bottom: 7px;
+  width: 291px;
+}
+
+.gender .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 234px;
+  min-height: 233px;
+  width: 186px;
+}
+
+.gender .products {
+  letter-spacing: -0.35px;
+  line-height: 22px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.gender .design-systems {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 23px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.gender .themes-templates {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 20px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.gender .mockups {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 22px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.gender .presentations {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 20px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.gender .wireframes-kits {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 21px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.gender .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 19px;
+  min-height: 191px;
+  width: 160px;
+}
+
+.gender .legals {
+  letter-spacing: -0.35px;
+  line-height: 22px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.gender .license {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 23px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.gender .refund-policy {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 20px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.gender .about-us {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 22px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.gender .contacts {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-bottom: -5px;
+  margin-top: 20px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.gender .flex-col-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 19px;
+  min-height: 205px;
+  width: 296px;
+}
+
+.gender .contacts-1 {
+  letter-spacing: -0.35px;
+  line-height: 22px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.gender .fell-free-get-in-tou {
+  letter-spacing: -0.18px;
+  line-height: 26px;
+  margin-top: 23px;
+  min-height: 47px;
+  width: 296px;
+}
+
+.gender .phone {
+  letter-spacing: -0.35px;
+  line-height: 14px;
+  margin-top: 50px;
+  min-height: 21px;
+  width: 296px;
+}
+
+.gender .deniscraftworkdesi {
+  letter-spacing: -0.35px;
+  line-height: 14px;
+  margin-top: 21px;
+  min-height: 21px;
+  width: 296px;
+}
